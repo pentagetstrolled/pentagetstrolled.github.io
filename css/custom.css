@@ -1,0 +1,41 @@
+@font-face {
+	font-family: CalibriDownload;
+	src: url(calibri.ttf);
+}
+
+body {
+	font-family: Calibri, CalibriDownload;
+	font-size: 18px;
+	background-color: black;
+	color: white;
+}
+
+a:link {
+	color: #FECB00;
+}
+
+a:visited {
+	color: #B28A28;
+}
+
+a:active {
+  color: #1aaaea;
+}
+
+img{
+	max-width: 100%;
+	border: 1px solid white;
+}
+
+video{
+	border: 1px solid white;
+}
+
+smalltext {
+	font-size:14px
+}
+
+smallertext {
+	font-size:10px
+}
+
